@@ -14,3 +14,8 @@
 .md-header {
   background-color: #C8102E !important;
 }
+
+.md-header__button.md-logo img {
+  height: auto;
+  width: 200px;
+}
