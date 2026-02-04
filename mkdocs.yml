@@ -1,3 +1,8 @@
+site_name: XRIML Wiki
+site_description: XR Immersive Media Lab Documentation
+site_author: CAMD - Northeastern University
+site_url: https://zbghost325.github.io/XRIML-Wiki/
+
 theme:
   name: material
   palette:
@@ -20,8 +25,17 @@ theme:
     - search.suggest
     - search.highlight
     - content.tabs.link
-  icon:
-    repo: fontawesome/brands/github
+
+nav:
+  - Home: index.md
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - tables
+  - toc:
+      permalink: true
 
 extra_css:
-  - stylesheets/extra.css
