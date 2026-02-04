@@ -1,0 +1,34 @@
+site_name: XRIML Wiki
+
+docs_dir: docs
+
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+  - About:
+      - About the Lab: about/about-the-lab.md
+      - Contact & Hours: about/contact-hours.md
+  - Spaces:
+      - Overview: spaces/overview.md
+      - Testing Room: spaces/testing-room.md
+      - Development Room: spaces/development-room.md
+      - Classroom/Research Room: spaces/classroom-research-room.md
+  - Equipment:
+      - Overview: equipment/overview.md
+      - VR Headsets: equipment/vr-headsets.md
+      - AR Headsets: equipment/ar-headsets.md
+      - 360 Cameras: equipment/360-cameras.md
+      - Motion Capture: equipment/motion-capture.md
+      - Workstations: equipment/workstations.md
+  - Software:
+      - Overview: software/overview.md
+      - Unity: software/unity.md
+      - Unreal Engine: software/unreal-engine.md
+      - 3D Modeling: software/3d-modeling.md
+  - Policies:
+      - Lab Rules: policies/lab-rules.md
+      - Reservations: policies/reservations.md
+      - Equipment Checkout: policies/equipment-checkout.md
+  - How To Edit: how-to-edit.md
