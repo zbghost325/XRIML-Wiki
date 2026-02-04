@@ -8,7 +8,7 @@ The **XR Immersive Media Lab (XRIML)** is the hub for Extended Reality (XR) at N
 
 ## Quick Links
 
-- 🗺️ **[Lab Spaces](spaces/overview.md)** — Testing Room, Development Room, Classroom
+- 🗺️ **[Lab Spaces and Reservations](spaces/overview.md)** — Testing Room, Development Room, Classroom
 - 🥽 **[Equipment](equipment/overview.md)** — Headsets, cameras, motion capture
 - 💻 **[Software](software/overview.md)** — Unity, Unreal, Blender, Maya
 - 📋 **[Policies](policies/lab-rules.md)** — Rules, reservations, checkout
