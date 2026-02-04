@@ -6,11 +6,12 @@ The **XR Immersive Media Lab (XRIML)** is the hub for Extended Reality (XR) at N
 
 ## What We Offer
 
-- **VR/AR/MR Headsets** — Meta Quest 3, Quest Pro, HTC XR Elite, Varjo XR-4, HoloLens 2, Magic Leap 2, and more
-- **360° Video Production** — Cameras and editing support for immersive video content
-- **Motion Capture** — Rokoko suits for full-body motion capture
-- **High-Performance Workstations** — PCs capable of running Unity, Unreal Engine, Maya, Blender, and other XR development tools
-- **Dedicated Spaces** — Room-scale VR testing, development workstations, and a classroom/research room
+## Quick Links
+
+- 🗺️ **[Lab Spaces](spaces/overview.md)** — Testing Room, Development Room, Classroom
+- 🥽 **[Equipment](equipment/overview.md)** — Headsets, cameras, motion capture
+- 💻 **[Software](software/overview.md)** — Unity, Unreal, Blender, Maya
+- 📋 **[Policies](policies/lab-rules.md)** — Rules, reservations, checkout
 
 ---
 
