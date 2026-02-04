@@ -1,10 +1,36 @@
+# XRIML Wiki Configuration
 site_name: XRIML Wiki
+site_description: XR Immersive Media Lab Documentation
+site_author: CAMD - Northeastern University
+site_url: https://yourusername.github.io/xriml-wiki/
 
-docs_dir: docs
-
+# Theme Configuration
 theme:
   name: material
+  palette:
+    - scheme: default
+      primary: red
+      accent: red
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: red
+      accent: red
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+  icon:
+    repo: fontawesome/brands/github
 
+# Navigation Structure
 nav:
   - Home: index.md
   - About:
@@ -31,4 +57,32 @@ nav:
       - Lab Rules: policies/lab-rules.md
       - Reservations: policies/reservations.md
       - Equipment Checkout: policies/equipment-checkout.md
-  - How To Edit: how-to-edit.md
+  - How to Edit This Wiki: how-to-edit.md
+
+# Plugins
+plugins:
+  - search
+  - print-site:
+      add_to_navigation: true
+      print_page_title: 'Print / PDF'
+      add_print_site_banner: false
+      enabled: true
+
+# Extensions
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - attr_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+
+# Extra
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/yourusername/xriml-wiki
