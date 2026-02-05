@@ -22,11 +22,13 @@ Reserve time in the XR Immersive Media Lab using our online booking system.
 
 ## Reservation Policies
 
-- **Book in advance:** Reservations should be made at least 24 hours ahead
-- **Cancellations:** Cancel at least 12 hours before your scheduled time
-- **No-shows:** Multiple no-shows may result in booking restrictions
-- **Maximum time:** [Add your max booking duration, e.g., "2 hours per session"]
-- **Who can book:** CAMD students, faculty, and staff with valid Northeastern credentials
+- Supersaas reservations are for individual users only. Please reach out to the Manager for classes, events or group reservation needs.
+- PC reservations include one roomscale or stationary space.
+- No-shows after 30 minutes will be emailed and reservations canceled.
+- NO FOOD OR DRINK in any of the LAB SPACES.
+- Please include details in the reservation description about additional resources needed.
+- Reservations can be up to 4 hours with a maximum of 6 reservations per day.
+- Reservations can only be made up to 7 days in advance.
 
 ## Need Help?
 
