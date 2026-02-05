@@ -2,7 +2,7 @@
 
 Rent equipment from the XR Immersive Media Lab using the WebCheckout Patron Portal.
 
-<a href="[https://webcheckout.northeastern.edu](https://northeastern.webcheckout.net/sso/patron#!/)" target="_blank" class="md-button md-button--primary">Open WebCheckout</a>
+<a href="https://northeastern.webcheckout.net/sso/patron" target="_blank" class="md-button md-button--primary">Open WebCheckout</a>
 
 ---
 
@@ -15,7 +15,7 @@ Rent equipment from the XR Immersive Media Lab using the WebCheckout Patron Port
 
 ### Hours (Fall & Spring Semesters)
 
-| | Pickup/Return Window |
+| Pickup/Return Window |
 |---|---|
 | **Monday–Friday Pickup** | 9:00 AM | 4:00 PM |
 | **Saturday–Sunday Pickup** | Not Available | Not Available |
