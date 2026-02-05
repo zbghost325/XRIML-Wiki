@@ -1,8 +1,8 @@
 # Equipment Checkout Guide
 
-Rent equipment from the Media Center using the WebCheckout Patron Portal.
+Rent equipment from the XR Immersive Media Lab using the WebCheckout Patron Portal.
 
-<a href="https://webcheckout.northeastern.edu" target="_blank" class="md-button md-button--primary">Open WebCheckout</a>
+<a href="[https://webcheckout.northeastern.edu](https://northeastern.webcheckout.net/sso/patron#!/)" target="_blank" class="md-button md-button--primary">Open WebCheckout</a>
 
 ---
 
