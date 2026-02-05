@@ -1,6 +1,8 @@
-# Welcome to the XR Immersive Media Lab
+<h1 style="text-align: center;">Welcome to the XR Immersive Media Lab</h1>
 
-![XRIML Banner](images/XR-Device-Banner.png)
+<p style="text-align: center;">
+  <img src="images/XR-Device-Banner.png" alt="XRIML Banner">
+</p>
 
 The **XR Immersive Media Lab (XRIML)** is the hub for Extended Reality (XR) at Northeastern University's College of Arts, Media and Design (CAMD). We support students, faculty, and courses in utilizing XR for experiential learning, content creation, application development, research, and exploration.
 
